@@ -1,0 +1,23 @@
+{
+  "name": "Rick-SDC",
+  "version": "1.0.0",
+  "description": "app.get('/data/artist/:id', (req, res) => {\r   const { id } = req.params;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamthriller/Rick-SDC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teamthriller/Rick-SDC/issues"
+  },
+  "homepage": "https://github.com/teamthriller/Rick-SDC#readme",
+  "dependencies": {
+    "newrelic": "^4.13.1"
+  }
+}
